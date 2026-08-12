@@ -19,7 +19,6 @@ if __name__ == "__main__":
     if ans == exp:
         print("Test OK")
     else:
-        print("Test Fail")
-''')
+        print("Test Fail")\n''')
 import my_math2
 print(my_math2.my_pow(2, 5))
